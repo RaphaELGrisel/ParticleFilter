@@ -1,2 +1,0 @@
-# ParticleFilter
-Video processing project
